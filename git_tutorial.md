@@ -7,3 +7,17 @@ Git all pc  -- git-scm.com
 
 git config --global user.name "name"
 git config --global user.email "email"
+
+Внесение изменений
+
+git status  [Перечисляет все новые или изменённыйе файлы]
+
+git diff 
+
+git add 
+
+git diff --staged
+
+git reset {file}
+
+git commit - m "commit"
