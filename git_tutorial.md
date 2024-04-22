@@ -45,3 +45,21 @@ git rm
 Переписывание истории
 git rebase
 git reflog
+
+Совместные рабочие процессы
+Синхронизация (git remote)
+git fetch
+git push
+git pull
+Выполнение запроса pull
+Использование веток (git branch)
+Git checkout
+Git merge
+Слияние конфликтов
+Стратегии слияния
+Сравнение процессов
+Рабочий процесс с функциональными ветками
+Рабочий процесс Gitflow Workflow
+Рабочий процесс Forking Workflow
+
+
