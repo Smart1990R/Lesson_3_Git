@@ -21,3 +21,27 @@ git diff --staged
 git reset {file}
 
 git commit - m "commit"
+
+
+Начало работы
+Настройка репозитория
+git init
+git clone
+git config
+git alias
+Сохранение изменений (git add)
+git commit
+git diff
+git stash
+.gitignore
+Проверка репозитория
+git tag
+git blame
+Отмена изменений
+git clean
+git revert
+git reset
+git rm
+Переписывание истории
+git rebase
+git reflog
